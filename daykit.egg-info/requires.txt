@@ -1,0 +1,6 @@
+
+[dev]
+pytest>=8
+
+[web]
+Django<6.0,>=5.0
