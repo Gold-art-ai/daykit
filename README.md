@@ -14,11 +14,13 @@ A lightweight, dependency-free Python toolkit for everyday routines, time utilit
 
 ## Installation
 
+> **Note:** `daykit` is currently published on [TestPyPI](https://test.pypi.org/project/daykit/). Install it with:
+
 ```bash
-pip install daykit
+pip install -i https://test.pypi.org/simple/ daykit
 ```
 
-Requires Python 3.8 or newer.
+Requires Python 3.9 or newer.
 
 ## Quick Start
 
